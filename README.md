@@ -4,8 +4,8 @@
 ## Sobre mim
 Graduado em Sistemas para Internet pela UNI-BH. Tive o prazer de atuar em diversos campos da tecnologia, passando pelo desenvolvimento, design e suporte. Hoje sou desenvolvedor e adoro ficar estudando novas tecnologias.
 
-- 💻 Trabalhando PHP
-- 📚 Estudando Docker e RabbitMQ
+- 💻 Trabalhando com PHP
+- 📚 Estudando Laravel e Vue
 - 🧑‍💻 Sempre tentando ajudar outros devs da melhor forma possível
 ---
 
