@@ -5,7 +5,7 @@
 Graduado em Sistemas para Internet pela UNI-BH. Tive o prazer de atuar em diversos campos da tecnologia, passando pelo desenvolvimento, design e suporte. Hoje sou desenvolvedor e adoro ficar estudando novas tecnologias.
 
 - 💻 Trabalhando com PHP
-- 📚 Estudando Laravel e Vue
+- 📚 Estudando Laravel, Vue e Golang
 - 🧑‍💻 Sempre tentando ajudar outros devs da melhor forma possível
 ---
 
